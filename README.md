@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hello, I'm Anshul Upadhyay!
 
-<!--
-**anshulupadhyay03/anshulupadhyay03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Location:** Dubai, UAE
 
-Here are some ideas to get you started:
+**Current Role:** Engineering Manager at Digital Dubai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Specializations:** Banckend developement,Mobile/Web Development Development, Kotlin, Kotlin Multiplatform Platform (KMP), Technical Leadership, Team Management, Agile Methodologies
+
+---
+
+## 🚀 About Me
+13+ Years of Expertise in Building Scalable & User-Centric Products.
+A passionate leader with a proven track record of building high-performing teams and
+delivering innovative solutions. Skilled in navigating complex projects and achieving goals on
+time, even under pressure.
+I'm a passionate developer and engineering leader with a keen interest in building robust and scalable applications. My journey has led me to specialize in Android development, with a strong emphasis on Kotlin and exploring the capabilities of Kotlin Multiplatform (KMP) to create seamless cross-platform experiences.
+
+Beyond technical expertise, I have honed my **managerial skills**, leading teams to success through effective communication, mentorship, and strategic planning. I thrive in **agile environments**, ensuring smooth collaboration between cross-functional teams and fostering a culture of innovation and continuous improvement.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Java, Kotlin, Typescript, Javascript, Dart,Nodejs
+- **Frameworks/Technologies:** Android SDK, KMM, React, Kafka, Kubernetes, Design Patterns, System Designs, CI/CD, TDD, Unit tests, Reactive Programming, TDD,Git Actions.
+- **Database:** Elasticsearch, NOSQL, SQLite
+- **Tools:** IntelliJ IDEA, Git,VSCode,Android Studio, 
+- **Other:** RESTful APIs, JSON, Agile Methodologies
+- **Management Skills:** Team Leadership, Agile & Scrum, Stakeholder Communication, Project Management, Performance Optimization
+
+---
+
+## 📈 GitHub Stats
+
+![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulupadhyay03&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Anshul Upadhyay](https://www.linkedin.com/in/anshulupadhyay03)
+- **Twitter:** [@anshulupadhyay03](https://twitter.com/anshulupadhyay03)
+
+Feel free to reach out if you'd like to collaborate on a project, discuss technology, or explore leadership and management best practices!
+
+---
+
+*This README was generated with ❤️ by Anshul Upadhyay.*
