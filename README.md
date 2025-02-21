@@ -4,7 +4,7 @@
 
 **Current Role:** Engineering Manager at Digital Dubai
 
-**Specializations:** Banckend developement,Mobile/Web Development Development, Kotlin, Kotlin Multiplatform Platform (KMP), Technical Leadership, Team Management, Agile Methodologies
+**Specializations:** Backend developement,Mobile/Web Development Development, Kotlin, Kotlin Multiplatform Platform (KMP), Technical Leadership, Team Management, Agile Methodologies
 
 ---
 
@@ -21,7 +21,7 @@ Beyond technical expertise, I have honed my **managerial skills**, leading teams
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java, Kotlin, Typescript, Javascript, Dart,Nodejs
+- **Languages:** Java, Kotlin, Typescript, Javascript, Dart,Nodejs,express.js
 - **Frameworks/Technologies:** Android SDK, KMM, React, Kafka, Kubernetes, Design Patterns, System Designs, CI/CD, TDD, Unit tests, Reactive Programming, TDD,Git Actions.
 - **Database:** Elasticsearch, NOSQL, SQLite
 - **Tools:** IntelliJ IDEA, Git,VSCode,Android Studio, 
