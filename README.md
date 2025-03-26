@@ -22,11 +22,11 @@ Beyond technical expertise, I have honed my **managerial skills**, leading teams
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Java, Kotlin, Typescript, Javascript, Dart,Nodejs,express.js
-- **Frameworks/Technologies:** Android SDK, KMM, React, Kafka, Kubernetes, Design Patterns, System Designs, CI/CD, TDD, Unit tests, Reactive Programming, TDD,Git Actions.
+- **Frameworks/Technologies:** Android SDK, KMM, React, Design Patterns, System Designs, CI/CD, TDD, Unit tests, Reactive Programming, TDD,Git Actions.
 - **Database:** Elasticsearch, NOSQL, SQLite
 - **Tools:** IntelliJ IDEA, Git,VSCode,Android Studio, 
 - **Other:** RESTful APIs, JSON, Agile Methodologies
-- **Management Skills:** Team Leadership, Agile & Scrum, Stakeholder Communication, Project Management, Performance Optimization
+- **Management Skills:** Team Management, Leadership, Agile & Scrum, Stakeholder Communication, Project Management, Performance Optimization
 
 
 ## 📫 Let's Connect
