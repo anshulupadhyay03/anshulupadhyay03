@@ -28,13 +28,6 @@ Beyond technical expertise, I have honed my **managerial skills**, leading teams
 - **Other:** RESTful APIs, JSON, Agile Methodologies
 - **Management Skills:** Team Leadership, Agile & Scrum, Stakeholder Communication, Project Management, Performance Optimization
 
----
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulupadhyay03&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
