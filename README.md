@@ -2,7 +2,7 @@
 
 **Location:** Dubai, UAE
 
-**Current Role:** Lead at Digital Dubai
+**Current Role:** Leading and Managing teams at Digital Dubai
 
 **Specializations:** Backend developement,Mobile/Web Development Development, Kotlin, Kotlin Multiplatform Platform (KMP), Technical Leadership, Team Management, Agile Methodologies
 
