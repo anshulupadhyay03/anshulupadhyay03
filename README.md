@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-13+ Years of Expertise in Building Scalable & User-Centric Products.
+14+ Years of Expertise in Building Scalable & User-Centric Products.
 A passionate leader with a proven track record of building high-performing teams and
 delivering innovative solutions. Skilled in navigating complex projects and achieving goals on
 time, even under pressure.
@@ -21,10 +21,10 @@ Beyond technical expertise, I have honed my **managerial skills**, leading teams
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java, Kotlin, Typescript, Javascript, Dart,Nodejs,express.js
+- **Languages:** Java, Kotlin, Typescript, Javascript, Dart,Nodejs,express.js,React.js
 - **Frameworks/Technologies:** Android SDK, KMM, React, Design Patterns, System Designs, CI/CD, TDD, Unit tests, Reactive Programming, TDD,Git Actions.
-- **Database:** Elasticsearch, NOSQL, SQLite
-- **Tools:** IntelliJ IDEA, Git,VSCode,Android Studio, 
+- **Database:** MangoDB, NOSQL, SQLite
+- **Tools:** IntelliJ IDEA, Git,VSCode,Android Studio
 - **Other:** RESTful APIs, JSON, Agile Methodologies
 - **Management Skills:** Team Management, Leadership, Agile & Scrum, Stakeholder Communication, Project Management, Performance Optimization
 
@@ -33,9 +33,8 @@ Beyond technical expertise, I have honed my **managerial skills**, leading teams
 
 - **LinkedIn:** [Anshul Upadhyay](https://www.linkedin.com/in/anshulupadhyay03)
 - **Twitter:** [@anshulupadhyay03](https://twitter.com/anshulupadhyay03)
+- **Email:** [anshulupadhyay03@gmail.com]
 
 Feel free to reach out if you'd like to collaborate on a project, discuss technology, or explore leadership and management best practices!
 
 ---
-
-*This README was generated with ❤️ by Anshul Upadhyay.*
